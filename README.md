@@ -49,8 +49,6 @@
 
 [<img align="left" alt="Traefik" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://github.com/traefik/traefik/raw/master/docs/content/assets/img/traefik.logo.png" />](https://traefik.io/)
 
-[<img align="left" alt="Express" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com/)
-
 [<img align="left" alt="Firebase" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://firebase.google.com/)
 
 [<img align="left" alt="Mongo" width="18px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" />](https://www.mongodb.com/)
