@@ -20,7 +20,7 @@
 
 ### Languages and Tools :
 
-[<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)" />](https://www.ubuntu-fr.org/)
+[<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />](https://www.ubuntu-fr.org/)
 
 
 <br />
