@@ -25,7 +25,6 @@
 
 ---
 
-
 [twitter]: https://twitter.com/Rebraxin
 [linkedin]: https://www.linkedin.com/in/cedric-paje-b69a4818a/
 [instagram]: https://www.instagram.com/rebraxin/
