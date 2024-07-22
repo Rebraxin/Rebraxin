@@ -9,9 +9,10 @@
 
 ### Connect with me :
 
-[<img align="left" alt="Rebraxin | Twitter" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rebraxin | LinkedIn" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rebraxin | Instagram" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rebraxin | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Rebraxin | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteg" />][linkedin]
+[<img align="left" alt="Rebraxin | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Rebraxin | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 
 <br />
 <br />
