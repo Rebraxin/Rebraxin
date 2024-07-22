@@ -20,7 +20,7 @@
 
 ### Languages and Tools :
 
-[<img align="left" alt="Ubuntu" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)" />](https://www.ubuntu-fr.org/)
+[<img align="left" alt="Ubuntu" width="28px" style="background: #e5e5e5; padding: 4px; border-radius: 2px; margin-right: 6px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)" />](https://www.ubuntu-fr.org/)
 
 
 <br />
