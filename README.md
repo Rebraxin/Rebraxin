@@ -1,4 +1,4 @@
-### Hi there, I'm Cédric - aka [Rebraxin][website] 👋
+### Hi there, I'm Cédric aka Rebraxin 👋
 
 ## I'm a Frontend Developer,
 
