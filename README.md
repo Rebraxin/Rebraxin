@@ -1,3 +1,9 @@
+<style>
+mark{
+    color:red;
+}
+</style>
+
 ### Hi there, I'm Cédric - aka [Rebraxin][website] 👋
 
 ## I'm a Frontend Developer,
