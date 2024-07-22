@@ -29,7 +29,7 @@
 [<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://tailwindcss.com/)
 <br><br>
 [<img align="left" alt="Next" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />](https://nextjs.org/)
-[<img align="left" alt="VSCode" src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
+[<img align="left" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
 <br><br>
 
